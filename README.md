@@ -312,7 +312,10 @@ The dashboard below shows live temperature and humidity readings from the separa
 ```text
 yawnagarden/
 ├── yawnagarden.py
-└── README.md
+├── README.md
+├── .gitignore
+└── images/
+    └── grafana-dashboard.png
 ```
 
 ## Future Expansion
