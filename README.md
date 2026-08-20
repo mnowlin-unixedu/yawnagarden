@@ -299,6 +299,14 @@ This makes it possible to build dashboards showing trends such as:
 * Environmental changes throughout the day
 * Historical garden conditions
 
+## Grafana Dashboard
+
+YAWNA Garden sends its sensor readings to InfluxDB, where Grafana provides real-time and historical visualization of garden conditions.
+
+The dashboard below shows live temperature and humidity readings from the separate sun and shade sensors.
+
+![YAWNA Garden Grafana Dashboard](images/grafana-dashboard.png)
+
 ## Project Structure
 
 ```text
